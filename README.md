@@ -2,4 +2,4 @@
 
 ---
 
-`EventSequence` is a module for Android which runs asynchronous task in order.
+`EventSequence` is a module for Android which runs asynchronous tasks in order.
