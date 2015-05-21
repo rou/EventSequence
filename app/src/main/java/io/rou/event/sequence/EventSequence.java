@@ -26,7 +26,7 @@ public class EventSequence {
 		next();
 	}
 
-	public void next() {
+	private void next() {
 		mCurrentIndex++;
 
 		if (mTasks.length <= mCurrentIndex) {
